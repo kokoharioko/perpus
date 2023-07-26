@@ -1,0 +1,81 @@
+#mypages
+{
+	width: 800px;
+	height: 1000px;
+	background: lightblue;
+	font-size: 40px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#header
+{
+	width: 800;
+	height: 200;
+	background: lightblue;
+	color: black;
+	font-size: 40px;
+	text-align: center;
+	overflow: hidden;
+}
+
+#menu
+{
+	width: 800;
+	height: 100;
+	background: lightgreen;
+	color: white;
+	font-size: 15px;
+	margin-top: 150;
+}
+
+#listmenu
+{
+	list-style:none;
+}
+#listmenu li a
+{
+	text-decoration: none;
+	float: left;
+	padding: 20px 20px;
+}
+
+#side
+{
+	width: 200;
+	height: 600;
+	background: gray;
+	color: black;
+	float: left;
+	font-size: 20px;
+	text-align: center;
+}
+
+#content
+{
+	width: 600;
+	height: 600;
+	background: pink;
+	color: black;
+	float: right;
+	font-size: 10px;
+	overflow: hidden;
+}
+	
+
+#bottom
+{
+	width: 800;
+	height: 200;
+	background: lightblue;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+}
+#kotaklogin
+{
+	width: 400px;
+	height: 400px;
+	margin: 0 auto;
+	text-align: center;
+}
